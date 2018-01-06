@@ -1,0 +1,8 @@
+#Graph Explanation
+
+
+1. Graph is scaled using Layout option force Atlas with repulsion = 10000 and adjust by sizes set to true.
+
+2. All nodes with outward degree are colored with a purple shade depending on number of out degrees.
+
+3. High out degree nodes are scaled to show prominence over other nodes.

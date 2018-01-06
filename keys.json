@@ -1,0 +1,9 @@
+{
+
+// Create a twitter account and add your own credentials here. :)
+"api_key": "",
+"api_secret": "",
+"token": "",
+"token_secret": ""
+
+}

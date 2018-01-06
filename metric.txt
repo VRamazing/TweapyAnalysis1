@@ -1,0 +1,15 @@
+Average Node Degree = 1.203
+
+Degree refers to number of edges a node has. Degree can be outward or inward for a directed graph. Outward degree refers to number of edges originating from given node and Inward degree refers to number of edges culminating at a given node. Average node degree is the average of Average indegree and Average outdegree for a given graph.
+
+In this case an average node degree means every person is connected to 1.2 person either as a follower or as a friend.
+
+
+Average Path Length = 3.782
+
+Average path length in this case refers to how many people do a person 'X' need to communicate through to reach a person 'Y' on an average.
+
+
+Graph Diameter = 6
+
+Graph Diameter refers to the Longest shortest-path in a given graph required to reach from one node to another
